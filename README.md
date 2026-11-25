@@ -1,5 +1,9 @@
 
 <div align="center">
+  <img src="./seapulse-banner.png" width="100%" alt="SeaPulse Banner" />
+</div>
+
+<div align="center">
 
 # 🌊 SeaPulse
 
